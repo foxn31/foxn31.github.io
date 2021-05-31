@@ -4,9 +4,6 @@ layout: default
 
 # foxn31.github.io
 
-Nick Fox's Webpage
-====================
-
 About
 ---------------------
 
